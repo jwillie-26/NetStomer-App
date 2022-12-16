@@ -18,7 +18,8 @@ View page-https://jwillie-26.github.io/NetStomer-App/
 
 #Demo
 
-![Screenshot from 2022-12-16 09-47-03](https://user-images.githubusercontent.com/105637783/208039273-addf88de-25cd-4639-85a0-fc4a3ee8ef62.png)
+![Screenshot from 2022-12-16 09-56-40](https://user-images.githubusercontent.com/105637783/208040660-efabe6d0-c47d-4a1a-80be-a349362b365b.png)
+
 
 
 MOBILE LAYOUT
