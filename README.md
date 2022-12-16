@@ -12,7 +12,7 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 
 *Real time
 
-It Also features Greetings depending on the time of day
+*It Also features Greetings depending on the time of day
 
 View page-https://jwillie-26.github.io/NetStomer-App/
 
