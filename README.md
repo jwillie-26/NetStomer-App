@@ -5,13 +5,16 @@ Check the weather around you and all over the world at a glance. Rely on the acc
 Weather is sometimes difficult to predict. This accurate weather app allows to find out a detailed forecast wherever you are, for any time of the day 
 
 *Current and temperature in degrees celcius and farenheit
+
 *Wind speed 
+
 *precipitation information
+
 *Real time
 
 It Also features Greetings depending on the time of day
 
-View page
+View page-https://jwillie-26.github.io/NetStomer-App/
 
 #Demo
 
