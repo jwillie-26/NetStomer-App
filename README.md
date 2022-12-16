@@ -9,7 +9,7 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 *precipitation information
 *Real time
 
-View page-https://jwillie-26.github.io/NetStomer-App/
+View page
 
 #Demo
 
