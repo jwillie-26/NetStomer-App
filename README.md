@@ -16,6 +16,8 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 
 *It Also features Greetings depending on the time of day
 
+*By clicking on the location icon your location can be automatically be detected by the site
+
 View page-https://jwillie-26.github.io/NetStomer-App/
 
 #Demo
